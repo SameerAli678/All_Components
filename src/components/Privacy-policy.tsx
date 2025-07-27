@@ -50,7 +50,7 @@ const PrivacyPolicy = () => {
               We may use personal information provided by users for the
               following purposes
             </div>
-          </li>
+          </li> 
           <ul>
             <li>To personalize user experience</li>
             <li> To improve our app</li>
