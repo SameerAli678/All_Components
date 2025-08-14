@@ -50,7 +50,7 @@ const PrivacyPolicy = () => {
               We may use personal information provided by users for the
               following purposes
             </div>
-          </li> 
+          </li>
           <ul>
             <li>To personalize user experience</li>
             <li> To improve our app</li>
@@ -103,11 +103,11 @@ const PrivacyPolicy = () => {
           Changes to This Privacy Policy
         </h1>
         <li className="md:px-9">
-          Your Company/App Name has the discretion to update this privacy
-          policy at any time. Users are encouraged to frequently check this page
-          for any changes to stay informed about how we are helping to protect
-          the personal information collected. You acknowledge and agree that it
-          is your responsibility to review this privacy policy periodically and
+          Your Company/App Name has the discretion to update this privacy policy
+          at any time. Users are encouraged to frequently check this page for
+          any changes to stay informed about how we are helping to protect the
+          personal information collected. You acknowledge and agree that it is
+          your responsibility to review this privacy policy periodically and
           become aware of modifications.
         </li>
       </div>
